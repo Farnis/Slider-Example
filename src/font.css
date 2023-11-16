@@ -1,0 +1,47 @@
+@font-face {
+  font-family: IRANSansMobile;
+  font-style: normal;
+  font-weight: bold;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile_Bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: IRANSansMobile;
+  font-style: normal;
+  font-weight: 500;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile_Medium.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: IRANSansMobile;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: IRANSansMobileFaNum;
+  font-style: normal;
+  font-weight: bold;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile(FaNum)_Bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: IRANSansMobileFaNum;
+  font-style: normal;
+  font-weight: 500;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile(FaNum)_Medium.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: IRANSansMobileFaNum;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/IranSansMobile/IRANSansMobile(FaNum).ttf")
+    format("truetype");
+}
